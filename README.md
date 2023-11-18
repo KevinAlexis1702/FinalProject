@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spotify Web API Examples
 
 ## Contents
@@ -8,3 +9,7 @@
     - [Client Credentials](/authorization/client_credentials)
     - [Implicit Grant](/authorization/implicit_grant/)
 - [Get User Profile example](/get_user_profile/)
+=======
+# FinalProject
+Proyecto Final de la materia Aplicaciones web Orientada a Servicios
+>>>>>>> 48ceacdd63ab468fb9d6a3dd8aad9e42bab6ad3d
